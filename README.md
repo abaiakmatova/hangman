@@ -1,3 +1,3 @@
 # hangman
 
-A hangman game written in javascript
+A guessing game in vanilla javascript

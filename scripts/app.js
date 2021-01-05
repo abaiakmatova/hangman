@@ -31,6 +31,7 @@ document.querySelector('#reset').addEventListener('click',startGame)
 startGame()
 
 
+
 // getPuzzle('2').then((puzzle)=>{
 //     console.log(puzzle)
 // }).catch((error)=>{
